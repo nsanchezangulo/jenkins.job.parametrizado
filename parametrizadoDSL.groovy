@@ -1,4 +1,4 @@
-job ('ejemplo-job-DSL'){
+job ('ejemplo2-job-DSL'){
 	description(' Job DLS de ejemplo ')
   scm{
     git('https://github.com/nsanchezangulo/jenkins.job.parametrizado.git', 'main'){ node ->
